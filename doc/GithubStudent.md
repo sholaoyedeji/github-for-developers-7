@@ -1,5 +1,9 @@
 ### Learning Github
 
-- [ ] Creating new Files
+**Name** Shola
+
+**City** LA
+
+**Hobby** Football
 
 **Favorite color:** Blue
